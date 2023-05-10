@@ -10,6 +10,7 @@ packages = [{include = "kaggle_pandas"}]
 python = "^3.11"
 pandas = "^2.0.1"
 notebook = "^6.5.4"
+numpy = "^1.24.3"
 
 
 [build-system]
